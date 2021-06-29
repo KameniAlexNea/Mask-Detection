@@ -1,2 +1,2 @@
 # Mask-Detection
-Predict if one or more person in an image have a mask
+Predict whether an image contains at least one person wearing a mask or not
